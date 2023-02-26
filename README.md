@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm huang.
 - 🔭 I’m currently working on front-end.
 
-## [博客](http://vue.huangdeqin.com/#/component/stars-ui)
+## [博客](https://www.yuque.com/shenjingwa-jr6ef/pb9pv8/ox0lxmllh6nb6asx)
 
 <!--
 **format001/format001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
